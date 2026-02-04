@@ -4,21 +4,21 @@
 
 #  Hi, I'm Dhruv Patil
 
-📊 **Data Analyst | Power BI Developer | Python Enthusiast**
+**Data Analyst | Power BI Developer | Python Enthusiast**
 
 </div>
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a Computer Engineering graduate passionate about **Data Analytics, Business Intelligence, and Predictive Analysis**.  
 I work with **Python, Power BI, SQL, and Excel** to convert raw data into actionable insights.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
-### 💻 Languages & Libraries
+###  Languages & Libraries
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
@@ -29,7 +29,7 @@ I work with **Python, Power BI, SQL, and Excel** to convert raw data into action
 
 ---
 
-### 📊 Analytics & BI
+###  Analytics & BI
 <div>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-5A5A5A?style=for-the-badge"/>
@@ -40,7 +40,7 @@ I work with **Python, Power BI, SQL, and Excel** to convert raw data into action
 
 ---
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 <div>
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -75,8 +75,8 @@ I work with **Python, Power BI, SQL, and Excel** to convert raw data into action
 ---
 
 ##  Connect with Me
-📧 **Email:** patildhruv74@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/dhruvpatil19
+ **Email:** patildhruv74@gmail.com  
+ **LinkedIn:** https://linkedin.com/in/dhruvpatil19
 <!--
 **Dhru-vx/Dhru-vx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
