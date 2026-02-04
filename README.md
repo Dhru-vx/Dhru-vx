@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <div align="center">
 
-# 👋 Hi, I'm Dhruv Patil
+#  Hi, I'm Dhruv Patil
 
 📊 **Data Analyst | Power BI Developer | Python Enthusiast**
 
